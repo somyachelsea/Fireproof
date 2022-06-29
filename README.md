@@ -58,7 +58,7 @@ If no fire is detected
 [Presentation](https://docs.google.com/presentation/d/15hfhQHfEvQtafrqppfLhot6F5t3R4naEtEJJR1Avqv0/edit?usp=sharing)
 
 ## Team 
-[Harsh Kumar Singh](https://github.com/harsh-hks-580)  
+[Somya Singh](https://github.com/somyachelsea)  
 [Sonali Verma](https://github.com/sonaliverma82276)  
 [Somya Jain](https://github.com/somyaj15)  
 [Surya Prakash Mishra](https://github.com/old-school-kid)  
